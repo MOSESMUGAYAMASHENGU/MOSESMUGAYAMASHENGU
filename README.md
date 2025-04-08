@@ -4,7 +4,7 @@
 
 ### 👨🏽‍💻 About Me
 
-I’m Moses Mashengu, a development studies professional transitioning into software engineering with a focus on **backend development**. I love building systems that empower learners and competitive achievers in various domains using **data, tech, and scientific insights** to drive sustainable impact across Africa and the world.
+I’m Moses Mashengu, a development studies professional transitioning into software engineering with a focus on **backend development**. I am eager to build systems that empower learners and competitive achievers in various domains using **data, tech, and scientific insights** to drive sustainable impact across Africa and the world.
 
 - 🎓 First-Class Honours in Development Studies  
 - 💡 Research recognized for methodical impact and institutional adoption  
