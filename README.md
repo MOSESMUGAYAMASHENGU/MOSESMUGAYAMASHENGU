@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MOSES 👋<br/> Backend Software Engineer in Progress</h1>
+<h1 align="center">Hi, I'm MOSES 👋<br/> Backend Engineer Learning to Build Sustainable Systems in Education</h1>
 
 ---
 
