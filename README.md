@@ -14,7 +14,8 @@ I’m Moses Mashengu, a development studies professional transitioning into soft
 
 ### 🎯 Current Goals
 
-- 🌱 Learning: Python, SQL, Git, and Backend Web Development  
+- 🧑‍💻 Dominating: Python, SQL, Git, for Backend Web Development
+- 📊 Learning: Data analysis to master data-driven decision making, automate reporting, and gain insights that power impactful web apps and business tools.
 - 📘 Mastering: Clean code, database design, and scalable APIs  
 - 🚀 Dream: Create evidence-based learning platforms that level the playing field for all students  
 
