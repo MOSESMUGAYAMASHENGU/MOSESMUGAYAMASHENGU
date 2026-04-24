@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MOSES 👋<br/> Data Analyst • Emerging Data Scientist • Evidence-Based Development Innovator</h1>
+<h1 align="center">Hi, I'm MOSES 👋<br/> Data Analyst • Evidence-Based Development Innovator</h1>
 
 ---
 
